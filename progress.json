@@ -284,5 +284,14 @@
       "You are missing some merges"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787329312.3296,
+    "completed_at": 1787329315.344809,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "Incomplete"
   }
 ]
